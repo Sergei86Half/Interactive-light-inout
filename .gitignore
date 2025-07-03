@@ -1,0 +1,7 @@
+# GoLand IDE files
+.idea/
+
+# Go binaries (compiled executables)
+*.exe
+# Go test binaries
+*.test
