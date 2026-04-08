@@ -16,4 +16,6 @@ go get golang.org/x/term
 
 go run light.go
 
+For Windows users
+
 
